@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Labor dora #1",
+    "description": "This NFT's just for demo",
+    "image": "ipfs://QmdD9vPf92cU18EhwB85e3za3DaJBChV2yLM1LFVYEaUYu/1.jpg",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "id",
+          "value": 1
+        },
+        {
+          "trait_type": "name",
+          "value": "dora chan"
+        },
+        {
+          "trait_type": "age",
+          "value": 1
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Labor dora #2",
+    "description": "This NFT's just for demo",
+    "image": "ipfs://QmdD9vPf92cU18EhwB85e3za3DaJBChV2yLM1LFVYEaUYu/2.jpg",
+    "edition": 2,
+    "attributes": [
+      [
+        {
+          "trait_type": "id",
+          "value": 2
+        },
+        {
+          "trait_type": "name",
+          "value": "dora san"
+        },
+        {
+          "trait_type": "age",
+          "value": 2
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Labor dora #3",
+    "description": "This NFT's just for demo",
+    "image": "ipfs://QmdD9vPf92cU18EhwB85e3za3DaJBChV2yLM1LFVYEaUYu/3.jpg",
+    "edition": 3,
+    "attributes": [
+      [
+        {
+          "trait_type": "id",
+          "value": 3
+        },
+        {
+          "trait_type": "name",
+          "value": "dora mini"
+        },
+        {
+          "trait_type": "age",
+          "value": 3
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Labor dora #4",
+    "description": "This NFT's just for demo",
+    "image": "ipfs://QmdD9vPf92cU18EhwB85e3za3DaJBChV2yLM1LFVYEaUYu/4.jpg",
+    "edition": 4,
+    "attributes": [
+      [
+        {
+          "trait_type": "id",
+          "value": 4
+        },
+        {
+          "trait_type": "name",
+          "value": "dora mana"
+        },
+        {
+          "trait_type": "age",
+          "value": 4
+        }
+      ]
+    ]
+  },
+  {
+    "name": "Labor dora #5",
+    "description": "This NFT's just for demo",
+    "image": "ipfs://QmdD9vPf92cU18EhwB85e3za3DaJBChV2yLM1LFVYEaUYu/5.jpg",
+    "edition": 5,
+    "attributes": [
+      [
+        {
+          "trait_type": "id",
+          "value": 5
+        },
+        {
+          "trait_type": "name",
+          "value": "dora mi"
+        },
+        {
+          "trait_type": "age",
+          "value": 5
+        }
+      ]
+    ]
+  }
+]

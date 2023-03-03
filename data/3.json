@@ -1,0 +1,22 @@
+{
+  "name": "Labor dora #3",
+  "description": "This NFT's just for demo",
+  "image": "ipfs://QmdD9vPf92cU18EhwB85e3za3DaJBChV2yLM1LFVYEaUYu/3.jpg",
+  "edition": 3,
+  "attributes": [
+    [
+      {
+        "trait_type": "id",
+        "value": 3
+      },
+      {
+        "trait_type": "name",
+        "value": "dora mini"
+      },
+      {
+        "trait_type": "age",
+        "value": 3
+      }
+    ]
+  ]
+}

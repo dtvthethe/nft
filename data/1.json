@@ -1,0 +1,22 @@
+{
+  "name": "Labor dora #1",
+  "description": "This NFT's just for demo",
+  "image": "ipfs://QmdD9vPf92cU18EhwB85e3za3DaJBChV2yLM1LFVYEaUYu/1.jpg",
+  "edition": 1,
+  "attributes": [
+    [
+      {
+        "trait_type": "id",
+        "value": 1
+      },
+      {
+        "trait_type": "name",
+        "value": "dora chan"
+      },
+      {
+        "trait_type": "age",
+        "value": 1
+      }
+    ]
+  ]
+}
